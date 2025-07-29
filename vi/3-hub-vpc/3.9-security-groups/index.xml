@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Groups on AWS System Manager</title>
+    <link>https://quocdeptraidev.github.io/vi/3-hub-vpc/3.9-security-groups/</link>
+    <description>Recent content in Security Groups on AWS System Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <atom:link href="https://quocdeptraidev.github.io/vi/3-hub-vpc/3.9-security-groups/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
