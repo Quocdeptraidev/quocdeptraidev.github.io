@@ -1,0 +1,57 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Hugo cache
+/.hugo_build.lock
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Backup files
+*.backup
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node modules (if using npm)
+node_modules/
+
+# AWS credentials (never commit these!)
+.aws/
+*.pem
+*.key
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+build/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Dependency directories
+vendor/
