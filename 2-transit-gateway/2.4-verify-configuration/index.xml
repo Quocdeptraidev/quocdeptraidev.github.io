@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verify Configuration on AWS System Manager</title>
-    <link>https://quocdeptraidev.github.io/2-transit-gateway/2.4-verify-configuration/</link>
+    <link>http://localhost:1313/2-transit-gateway/2.4-verify-configuration/</link>
     <description>Recent content in Verify Configuration on AWS System Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://quocdeptraidev.github.io/2-transit-gateway/2.4-verify-configuration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/2-transit-gateway/2.4-verify-configuration/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

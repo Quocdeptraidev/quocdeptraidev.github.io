@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hướng Dẫn Cài Đặt AWS Transit Gateway on AWS System Manager</title>
-    <link>https://quocdeptraidev.github.io/vi/2-transit-gateway/</link>
+    <link>http://localhost:1313/vi/2-transit-gateway/</link>
     <description>Recent content in Hướng Dẫn Cài Đặt AWS Transit Gateway on AWS System Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://quocdeptraidev.github.io/vi/2-transit-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vi/2-transit-gateway/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

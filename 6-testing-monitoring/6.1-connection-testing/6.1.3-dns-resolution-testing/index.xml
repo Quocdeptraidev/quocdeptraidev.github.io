@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DNS Resolution Testing on AWS System Manager</title>
-    <link>https://quocdeptraidev.github.io/6-testing-monitoring/6.1-connection-testing/6.1.3-dns-resolution-testing/</link>
+    <link>http://localhost:1313/6-testing-monitoring/6.1-connection-testing/6.1.3-dns-resolution-testing/</link>
     <description>Recent content in DNS Resolution Testing on AWS System Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://quocdeptraidev.github.io/6-testing-monitoring/6.1-connection-testing/6.1.3-dns-resolution-testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/6-testing-monitoring/6.1-connection-testing/6.1.3-dns-resolution-testing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

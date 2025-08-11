@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network ACL Implementation on AWS System Manager</title>
-    <link>https://quocdeptraidev.github.io/5-routing-security/5.4-network-acl-implementation/</link>
+    <link>http://localhost:1313/5-routing-security/5.4-network-acl-implementation/</link>
     <description>Recent content in Network ACL Implementation on AWS System Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://quocdeptraidev.github.io/5-routing-security/5.4-network-acl-implementation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/5-routing-security/5.4-network-acl-implementation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
